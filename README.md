@@ -1,13 +1,18 @@
+# google
 https://google.qwiklabs.com
 
 mac bash error
 ls: .: Operation not permitted
 
+# mac command
 version catalina
 mac version check command 
 sw_vers
 
 
+https://support.apple.com/ja-jp/guide/terminal/welcome/mac
+
+# install command
 mac home brew install
  /usr/bin/ruby -e "$(curl -fsSL  https://raw.githubusercontent.com/Homebrew/install/master/install)"  
 
